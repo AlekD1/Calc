@@ -1,0 +1,22 @@
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\bin\Debug\Calc.exe.config
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\bin\Debug\Calc.exe
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\bin\Debug\Calc.pdb
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.exe
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.pdb
+C:\Users\lehad\Desktop\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csproj.CopyComplete
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\bin\Debug\Calc.exe.config
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\bin\Debug\Calc.exe
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\bin\Debug\Calc.pdb
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.Form1.resources
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.Properties.Resources.resources
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.csproj.CopyComplete
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.exe
+F:\Программирование\C#\Системное рпограммирование\Практика C#\Приложение калькулятор\Calc\obj\Debug\Calc.pdb
